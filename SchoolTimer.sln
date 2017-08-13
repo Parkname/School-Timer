@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26430.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SchoolTimer", "SchoolTimer\SchoolTimer.csproj", "{F931502F-9228-44DD-9E11-53D19C10F17A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F931502F-9228-44DD-9E11-53D19C10F17A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F931502F-9228-44DD-9E11-53D19C10F17A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F931502F-9228-44DD-9E11-53D19C10F17A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F931502F-9228-44DD-9E11-53D19C10F17A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
